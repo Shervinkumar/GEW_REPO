@@ -1,0 +1,17 @@
+AP:
+1.-->GFSS AP Dummy Closure
+ 1.1-->Invoice Validation
+ 1.2-->GFSS Cancel Payment batches
+ 1.3-->EFSS Payables Accounting Process
+ 1.4-->Payables Transfer to General Ledger
+ 1.5-->GFSS Dummy Closure Emailer Program
+ 1.6-->Unaccounted Transactions Report
+
+AR:
+1.-->GFSS AR Dummy Closure Program (Report Set)
+ 1.1-->General Ledger Transfer Program
+  1.1.1-->Revenue Recognition
+  1.1.2-->Revenue Contingency Analyzer
+  1.1.3-->Update Posting Control
+ 1.2 -->GFSS Dummy Closure Emailer Program
+ 1.3 -->Unposted Items Report 
